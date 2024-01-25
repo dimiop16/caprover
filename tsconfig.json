@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "strictNullChecks": true,
+        "outDir": "./built",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "allowJs": true,
+        "noUnusedLocals": true,
+        "target": "es6"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
